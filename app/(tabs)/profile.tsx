@@ -12,8 +12,8 @@ const USER_DATA = {
 };
 
 const USER_POSTS = [
-  { id: '1', url: 'https://picsum.photos/seed/1/300' },
-  { id: '2', url: 'https://picsum.photos/seed/2/300' },
+  { id: '1', url: 'https://images7.alphacoders.com/127/thumb-1920-1277140.jpg' },
+  { id: '2', url: 'https://media.philstar.com/photos/2022/12/14/spider-man-across-spider-verse_2022-12-14_18-10-18.jpg' },
   { id: '3', url: 'https://picsum.photos/seed/3/300' },
   { id: '4', url: 'https://picsum.photos/seed/4/300' },
   { id: '5', url: 'https://picsum.photos/seed/5/300' },
