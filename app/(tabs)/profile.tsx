@@ -5,8 +5,8 @@ const { width } = Dimensions.get('window');
 
 // Dados fictícios do perfil e das postagens do usuário
 const USER_DATA = {
-  name: 'Seu Nome',
-  bio: 'Desenvolvedor React Native | Entusiasta de UI/UX',
+  name: 'Thiago Henrique',
+  bio: 'Desenvolvedor vscode | Entusiasta de design grafico',
   profilePic: 'https://github.com/github.png', // Exemplo de link da web
   coverPic: 'https://picsum.photos/id/10/800/400',
 };
