@@ -14,6 +14,12 @@ const INITIAL_POSTS = [
     image: 'https://picsum.photos/seed/tech/400/300',
     description: 'Codando o projeto de Feed!',
   },
+    {
+    id: '3',
+    user: 'João Souza',
+    image: 'https://picsum.photos/seed/tech/400/300',
+    description: 'Codando o projeto de Feed!',
+  },
 ];
 
 export default function FeedScreen() {
